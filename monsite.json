@@ -23,6 +23,14 @@
 			"cat_title": "contacts",
 			"cat_description": "Permettez de vous contacter",
 			"cat_img_source": "url de mon image",
+			"visibility": true
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"cat_title": "contacts",
+			"cat_description": "Permettez de vous contacter",
+			"cat_img_source": "url de mon image",
 			"visibility": true,
 			"title": "contactez nous v2",
 			"subtitle": "vraiment super comme description"
