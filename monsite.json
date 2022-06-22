@@ -1,3 +1,20 @@
 {
-	"site": []
+	"site": [
+		{
+			"type": [
+				"a",
+				null
+			],
+			"cat_category": "attract",
+			"visibility": false
+		},
+		{
+			"type": [
+				"b",
+				null
+			],
+			"cat_category": "contact",
+			"visibility": false
+		}
+	]
 }
