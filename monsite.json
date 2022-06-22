@@ -7,7 +7,8 @@
 			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
 			"cat_img_source": "liens vers mon image",
 			"visibility": true,
-			"title": "mon image principale"
+			"title": "mon image principale",
+			"subtitle": "effet wow"
 		},
 		{
 			"cat_ref": "contact1",
