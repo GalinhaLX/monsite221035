@@ -1,41 +1,12 @@
 {
 	"site": [
 		{
-			"ref": "a",
-			"category": "attract",
-			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
-			"visibility": false,
-			"columns": [
-				{
-					"title": "aze",
-					"cat_age": "aa"
-				}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
 			"visibility": false,
 			"columns": [
 				{}
 			],
 			"item": [
 				{}
-			]
-		},
-		{
-			"ref": "b",
-			"category": "contact",
-			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
-			"visibility": false,
-			"columns": [
-				{}
-			],
-			"item": [
-				{
-					"cat_age": "ss"
-				}
 			]
 		}
 	]
