@@ -17,8 +17,8 @@
 			"cat_description": "Permettez de vous contacter",
 			"cat_img_source": "url de mon image",
 			"visibility": true,
-			"title": "test de contactez nous v1",
-			"subtitle": "je ne sais pas si je préfère celle-ci"
+			"title": "contactez nous v2",
+			"subtitle": "vraiment super comme description"
 		},
 		{
 			"cat_ref": "contact1",
@@ -27,8 +27,8 @@
 			"cat_description": "Permettez de vous contacter",
 			"cat_img_source": "url de mon image",
 			"visibility": true,
-			"title": "contactez nous v2",
-			"subtitle": "vraiment super comme description"
+			"title": "test de contactez nous v1",
+			"subtitle": "je ne sais pas si je préfère celle-ci"
 		}
 	]
 }
