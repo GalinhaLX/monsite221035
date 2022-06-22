@@ -15,7 +15,7 @@
 		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
-			"visibility": false,
+			"visibility": true,
 			"title": "meme",
 			"subtitle": "si"
 		},
