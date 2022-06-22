@@ -1,6 +1,8 @@
 {
 	"site": [
 		{
+			"ref": "a",
+			"category": "attract",
 			"visibility": true,
 			"columns": [
 				{}
@@ -10,24 +12,17 @@
 			]
 		},
 		{
-			"type": "b",
-			"cat_category": "contact",
 			"ref": "b",
-			"visibility": false,
+			"category": "contact",
+			"visibility": true,
 			"columns": [
 				{}
 			],
 			"item": [
-				{
-					"cat_age": "sdqsdsqdqssdq"
-				}
+				{}
 			]
 		},
 		{
-			"type": "b",
-			"cat_category": "contact",
-			"ref": "b",
-			"category": "convince",
 			"visibility": true,
 			"columns": [
 				{}
