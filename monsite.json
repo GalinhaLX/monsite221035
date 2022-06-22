@@ -44,6 +44,14 @@
 			"visibility": true,
 			"title": "test de contactez nous v1",
 			"subtitle": "je ne sais pas si je préfère celle-ci"
+		},
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
+			"cat_title": "titre",
+			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
+			"cat_img_source": "liens vers mon image",
+			"visibility": true
 		}
 	]
 }
