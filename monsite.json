@@ -1,12 +1,6 @@
 {
 	"site": [
 		{
-			"visibility": true
-		},
-		{
-			"visibility": true
-		},
-		{
 			"cat_ref": "contact1",
 			"cat_category": "contact",
 			"cat_title": "contacts",
