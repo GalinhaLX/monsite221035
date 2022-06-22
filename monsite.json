@@ -15,9 +15,7 @@
 			"type": "a",
 			"cat_category": "attract",
 			"visibility": false,
-			"columns": [
-				{}
-			],
+			"columns": [],
 			"item": [
 				{}
 			]
