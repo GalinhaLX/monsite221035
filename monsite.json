@@ -3,6 +3,11 @@
 		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
+			"visibility": false
+		},
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
 			"cat_age": "33",
 			"visibility": true,
 			"title": "aa",
