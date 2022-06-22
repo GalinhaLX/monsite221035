@@ -1,9 +1,6 @@
 {
 	"site": [
 		{
-			"type": "a",
-			"cat_category": "attract",
-			"ref": "a",
 			"visibility": true,
 			"columns": [
 				{}
@@ -16,21 +13,14 @@
 			"type": "b",
 			"cat_category": "contact",
 			"ref": "b",
-			"visibility": true,
+			"visibility": false,
 			"columns": [
 				{}
 			],
 			"item": [
-				{}
-			]
-		},
-		{
-			"visibility": true,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
+				{
+					"cat_age": "sdqsdsqdqssdq"
+				}
 			]
 		}
 	]
