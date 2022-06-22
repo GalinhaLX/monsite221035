@@ -6,7 +6,8 @@
 			"cat_title": "titre",
 			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
 			"cat_img_source": "liens vers mon image",
-			"visibility": true
+			"visibility": true,
+			"title": "mon image principale"
 		},
 		{
 			"cat_ref": "contact1",
