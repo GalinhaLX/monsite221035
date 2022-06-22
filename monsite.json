@@ -5,7 +5,9 @@
 			"category": "attract",
 			"visibility": false,
 			"columns": [
-				{}
+				{
+					"title": "aaaa"
+				}
 			],
 			"item": [
 				{}
