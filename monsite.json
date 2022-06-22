@@ -59,7 +59,7 @@
 			"ref": "c",
 			"category": "contact",
 			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
-			"visibility": false,
+			"visibility": true,
 			"columns": [
 				{}
 			],
