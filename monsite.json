@@ -10,6 +10,17 @@
 			"item": [
 				{}
 			]
+		},
+		{
+			"type": "b",
+			"cat_category": "contact",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
 		}
 	]
 }
