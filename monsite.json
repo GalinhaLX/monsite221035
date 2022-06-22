@@ -13,6 +13,11 @@
 			"visibility": true,
 			"title": "un autre titre",
 			"subtitle": "vraiment?"
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"visibility": true
 		}
 	]
 }
