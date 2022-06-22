@@ -6,7 +6,9 @@
 			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
 			"visibility": false,
 			"bloc_a": [
-				{}
+				{
+					"title": "titre super bloc a"
+				}
 			],
 			"bloc_b": [
 				{}
