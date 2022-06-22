@@ -3,6 +3,11 @@
 		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
+			"visibility": true
+		},
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
 			"cat_title": "titre",
 			"cat_img_source": "liens vers mon image",
 			"visibility": true
