@@ -1,6 +1,17 @@
 {
 	"site": [
 		{
+			"type": "a",
+			"cat_category": "attract",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
 			"type": "b",
 			"cat_category": "contact",
 			"visibility": true,
