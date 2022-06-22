@@ -1,27 +1,36 @@
 {
 	"site": [
 		{
+			"ref": "a",
+			"category": "attract",
+			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
 			"visibility": true,
 			"columns": [
 				{}
 			],
 			"item": [
-				{
-					"subtitleif": "imported if"
-				}
+				{}
+			]
+		},
+		{
+			"visibility": true,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
 			]
 		},
 		{
 			"ref": "b",
 			"category": "contact",
+			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
 			"visibility": true,
 			"columns": [
 				{}
 			],
 			"item": [
-				{
-					"subtitleif": "la nouvelle prop via externe"
-				}
+				{}
 			]
 		}
 	]
