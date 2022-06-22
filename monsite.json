@@ -12,6 +12,16 @@
 		{
 			"type": "b",
 			"cat_category": "contact",
+			"cat_age": "11",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": []
+		},
+		{
+			"type": "b",
+			"cat_category": "contact",
 			"visibility": true,
 			"columns": [
 				{}
