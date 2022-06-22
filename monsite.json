@@ -10,17 +10,6 @@
 					"subtitleif": "imported if"
 				}
 			]
-		},
-		{
-			"ref": "b",
-			"category": "contact",
-			"visibility": true,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
 		}
 	]
 }
