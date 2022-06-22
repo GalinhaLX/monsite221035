@@ -13,6 +13,16 @@
 			]
 		},
 		{
+			"visibility": false,
+			"ref": "a",
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
 			"type": "b",
 			"cat_category": "contact",
 			"ref": "b",
