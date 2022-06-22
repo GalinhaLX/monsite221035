@@ -8,6 +8,11 @@
 			"subtitle": "si"
 		},
 		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"visibility": false
+		},
+		{
 			"cat_ref": "ref1",
 			"cat_category": "attract",
 			"visibility": true,
