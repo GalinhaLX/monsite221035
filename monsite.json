@@ -11,6 +11,16 @@
 		},
 		{
 			"type": "b",
+			"cat_category": "contact",
+			"cat_age": "44",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": []
+		},
+		{
+			"type": "b",
 			"cat_category": "attract",
 			"visibility": false,
 			"columns": [
