@@ -1,16 +1,3 @@
 {
-	"site": [
-		{
-			"cat_ref": [
-				"hero1",
-				null
-			],
-			"cat_category": "attract",
-			"visibility": false,
-			"title": [
-				null,
-				null
-			]
-		}
-	]
+	"site": []
 }
