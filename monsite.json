@@ -5,7 +5,8 @@
 			"cat_category": "attract",
 			"cat_age": "33",
 			"visibility": true,
-			"title": "aa"
+			"title": "aa",
+			"subtitle": "aa"
 		},
 		{
 			"cat_ref": "contact1",
