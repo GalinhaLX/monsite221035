@@ -1,6 +1,36 @@
 {
 	"site": [
 		{
+			"ref": "b",
+			"category": "contact",
+			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				[
+					{}
+				],
+				[
+					{
+						"data_pane": "Attract > with a long text > to see what happens ",
+						"team_title": "Our team",
+						"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
+						"member": [
+							{
+								"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+								"team_member_name": "John DOE",
+								"team_member_position": "CEO",
+								"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+							}
+						]
+					}
+				],
+				[]
+			]
+		},
+		{
 			"visibility": false,
 			"columns": [
 				{}
@@ -26,36 +56,6 @@
 				],
 				[
 					"\n                                "
-				]
-			]
-		},
-		{
-			"ref": "d",
-			"visibility": true,
-			"columns": [
-				{}
-			],
-			"item": [
-				[
-					{}
-				],
-				[
-					{
-						"data_pane": "Attract > with a long text > to see what happens ",
-						"team_title": "Our team",
-						"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
-						"member": [
-							{
-								"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-								"team_member_name": "John DOE",
-								"team_member_position": "CEO",
-								"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-							}
-						]
-					}
-				],
-				[
-					"sdfsdfsf"
 				]
 			]
 		}
