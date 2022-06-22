@@ -19,7 +19,9 @@
 				{}
 			],
 			"item": [
-				{}
+				{
+					"subtitleif": "la nouvelle prop via externe"
+				}
 			]
 		}
 	]
