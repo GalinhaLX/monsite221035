@@ -4,41 +4,6 @@
 			"type": "a",
 			"cat_category": "attract",
 			"ref": "a",
-			"visibility": false,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
-			"type": "b",
-			"cat_category": "contact",
-			"ref": "b",
-			"visibility": false,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
-			"type": "a",
-			"cat_category": "attract",
-			"visibility": false,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
-			"type": "b",
-			"cat_category": "contact",
-			"cat_age": "11",
 			"visibility": true,
 			"columns": [
 				{}
@@ -50,8 +15,8 @@
 		{
 			"type": "b",
 			"cat_category": "contact",
-			"cat_age": "11",
-			"visibility": false,
+			"ref": "b",
+			"visibility": true,
 			"columns": [
 				{}
 			],
