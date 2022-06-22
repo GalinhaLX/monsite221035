@@ -1,11 +1,7 @@
 {
 	"site": [
 		{
-			"cat_ref": "contact1",
-			"cat_category": "contact",
-			"visibility": true,
-			"title": "mon tél",
-			"subtitle": "oui oui"
+			"visibility": false
 		}
 	]
 }
