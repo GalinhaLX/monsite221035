@@ -5,6 +5,28 @@
 			"cat_category": "attract",
 			"visibility": false,
 			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
+			"type": "b",
+			"cat_category": "contact",
+			"visibility": true,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
+			"type": "a",
+			"cat_category": "attract",
+			"visibility": false,
+			"columns": [
 				{
 					"type": "a",
 					"title": "ezaezae",
