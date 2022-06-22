@@ -1,28 +1,19 @@
 {
 	"site": [
 		{
-			"ref": "a",
-			"category": "attract",
 			"visibility": true,
 			"columns": [
 				{}
 			],
 			"item": [
-				{}
+				{
+					"subtitleif": "imported if"
+				}
 			]
 		},
 		{
 			"ref": "b",
 			"category": "contact",
-			"visibility": true,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
 			"visibility": true,
 			"columns": [
 				{}
