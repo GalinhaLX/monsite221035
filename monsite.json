@@ -1,8 +1,8 @@
 {
 	"site": [
 		{
-			"type": "a",
-			"cat_category": "attract",
+			"type": "b",
+			"cat_category": "contact",
 			"visibility": false,
 			"columns": [
 				{}
@@ -12,8 +12,8 @@
 			]
 		},
 		{
-			"type": "b",
-			"cat_category": "contact",
+			"type": "a",
+			"cat_category": "attract",
 			"visibility": false,
 			"columns": [
 				{}
