@@ -1,34 +1,6 @@
 {
 	"site": [
 		{
-			"type": "a",
-			"cat_category": "attract",
-			"ref": "a",
-			"visibility": true,
-			"columns": [
-				{
-					"title": "mon titre",
-					"cat_age": "22"
-				}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
-			"visibility": false,
-			"ref": "a",
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
-			]
-		},
-		{
-			"type": "b",
-			"cat_category": "contact",
-			"ref": "b",
 			"visibility": true,
 			"columns": [
 				{}
