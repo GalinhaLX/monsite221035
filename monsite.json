@@ -23,6 +23,18 @@
 			"item": [
 				{}
 			]
+		},
+		{
+			"ref": "b",
+			"category": "contact",
+			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
 		}
 	]
 }
