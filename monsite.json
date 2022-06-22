@@ -32,7 +32,7 @@
 			"ref": "a",
 			"category": "attract",
 			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
-			"visibility": false,
+			"visibility": true,
 			"bloc_a": [
 				{
 					"title": "titre super bloc a",
