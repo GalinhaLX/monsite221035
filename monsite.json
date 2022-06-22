@@ -1,6 +1,11 @@
 {
 	"site": [
 		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
+			"visibility": false
+		},
+		{
 			"visibility": false
 		}
 	]
