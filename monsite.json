@@ -1,20 +1,15 @@
 {
 	"site": [
 		{
-			"type": [
-				"a",
-				null
-			],
+			"type": "a",
 			"cat_category": "attract",
-			"visibility": false
-		},
-		{
-			"type": [
-				"b",
-				null
+			"visibility": false,
+			"columns": [
+				{}
 			],
-			"cat_category": "contact",
-			"visibility": false
+			"item": [
+				{}
+			]
 		}
 	]
 }
