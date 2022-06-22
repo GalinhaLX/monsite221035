@@ -1,23 +1,6 @@
 {
 	"site": [
 		{
-			"ref": "a",
-			"category": "attract",
-			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
-			"visibility": false,
-			"columns": [
-				{}
-			],
-			"item": [
-				[
-					{}
-				],
-				[
-					{}
-				]
-			]
-		},
-		{
 			"ref": "b",
 			"category": "contact",
 			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
