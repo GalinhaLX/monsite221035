@@ -6,6 +6,11 @@
 			"visibility": false
 		},
 		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"visibility": false
+		},
+		{
 			"visibility": false
 		}
 	]
