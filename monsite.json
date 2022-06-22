@@ -7,11 +7,7 @@
 				null
 			],
 			"cat_category": "attract",
-			"visibility": false,
-			"title": [
-				null,
-				null
-			]
+			"visibility": false
 		},
 		{
 			"type": [
@@ -21,11 +17,7 @@
 			],
 			"cat_category": "c",
 			"cat_age": "33",
-			"visibility": false,
-			"title": [
-				null,
-				null
-			]
+			"visibility": false
 		}
 	]
 }
