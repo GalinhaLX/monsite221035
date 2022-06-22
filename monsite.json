@@ -5,7 +5,11 @@
 			"cat_category": "attract",
 			"visibility": false,
 			"columns": [
-				{}
+				{
+					"type": "a",
+					"title": "ezaezae",
+					"cat_age": "44"
+				}
 			],
 			"item": [
 				{}
