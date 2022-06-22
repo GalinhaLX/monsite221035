@@ -10,11 +10,6 @@
 		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
-			"visibility": true
-		},
-		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
 			"cat_title": "titre",
 			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
 			"cat_img_source": "liens vers mon image",
