@@ -10,7 +10,7 @@
 		{
 			"cat_ref": "ref1",
 			"cat_category": "attract",
-			"visibility": true,
+			"visibility": false,
 			"title": "un autre titre",
 			"subtitle": "vraiment?"
 		},
