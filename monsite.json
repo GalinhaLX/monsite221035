@@ -12,6 +12,20 @@
 				null,
 				null
 			]
+		},
+		{
+			"type": [
+				"c",
+				null,
+				null
+			],
+			"cat_category": "c",
+			"cat_age": "33",
+			"visibility": false,
+			"title": [
+				null,
+				null
+			]
 		}
 	]
 }
