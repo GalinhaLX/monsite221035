@@ -7,7 +7,8 @@
 			"visibility": false,
 			"bloc_a": [
 				{
-					"title": "titre super bloc a"
+					"title": "titre super bloc a",
+					"soustitre": "11a"
 				}
 			],
 			"bloc_b": [
