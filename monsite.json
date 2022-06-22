@@ -1,17 +1,39 @@
 {
 	"site": [
 		{
-			"cat_ref": "hero1",
+			"cat_ref": [
+				"hero1",
+				null
+			],
 			"cat_category": "attract",
-			"visibility": false
+			"visibility": false,
+			"title": [
+				null,
+				null
+			]
 		},
 		{
-			"cat_ref": "contact1",
+			"cat_ref": [
+				"contact1",
+				null
+			],
 			"cat_category": "contact",
-			"visibility": false
+			"visibility": false,
+			"title": [
+				null,
+				null
+			]
 		},
 		{
-			"visibility": false
+			"visibility": false,
+			"cat_ref": [
+				null,
+				null
+			],
+			"title": [
+				null,
+				null
+			]
 		}
 	]
 }
