@@ -1,13 +1,6 @@
 {
 	"site": [
 		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
-			"visibility": false,
-			"title": "meme",
-			"subtitle": "si"
-		},
-		{
 			"cat_ref": "contact1",
 			"cat_category": "contact",
 			"visibility": false
@@ -18,6 +11,13 @@
 			"visibility": true,
 			"title": "un autre titre",
 			"subtitle": "vraiment?"
+		},
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
+			"visibility": false,
+			"title": "meme",
+			"subtitle": "si"
 		},
 		{
 			"cat_ref": "contact1",
