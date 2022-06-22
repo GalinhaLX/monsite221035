@@ -4,7 +4,7 @@
 			"cat_ref": "hero1",
 			"cat_category": "attract",
 			"cat_age": "22",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"cat_ref": "contact1",
