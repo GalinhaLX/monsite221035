@@ -4,33 +4,48 @@
 			"ref": "a",
 			"category": "attract",
 			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
-			"visibility": true,
+			"visibility": false,
 			"columns": [
 				{}
 			],
 			"item": [
-				{}
-			]
-		},
-		{
-			"visibility": true,
-			"columns": [
-				{}
-			],
-			"item": [
-				{}
+				[
+					{}
+				],
+				[
+					{}
+				]
 			]
 		},
 		{
 			"ref": "b",
 			"category": "contact",
 			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
-			"visibility": true,
+			"visibility": false,
 			"columns": [
 				{}
 			],
 			"item": [
+				[
+					{}
+				],
+				[
+					{}
+				]
+			]
+		},
+		{
+			"visibility": false,
+			"columns": [
 				{}
+			],
+			"item": [
+				[
+					{}
+				],
+				[
+					{}
+				]
 			]
 		}
 	]
