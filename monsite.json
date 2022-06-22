@@ -33,6 +33,20 @@
 			]
 		},
 		{
+			"ref": "c",
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/mesblocs221235@a43de39c9b469a6593f0785ef55f6639618d71f3/images/header1.png",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				[
+					{}
+				],
+				[]
+			]
+		},
+		{
 			"ref": "a",
 			"category": "attract",
 			"visibility": false,
