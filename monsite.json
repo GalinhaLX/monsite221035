@@ -17,6 +17,24 @@
 				null,
 				null
 			]
+		},
+		{
+			"cat_ref": [
+				"contact1",
+				null,
+				null
+			],
+			"cat_category": "contact",
+			"visibility": false,
+			"title": [
+				null,
+				null,
+				null
+			],
+			"subtitle": [
+				null,
+				null
+			]
 		}
 	]
 }
