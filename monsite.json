@@ -1,0 +1,27 @@
+{
+	"site": [
+		{
+			"visibility": true
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"cat_title": "contacts",
+			"cat_description": "Permettez de vous contacter",
+			"cat_img_source": "url de mon image",
+			"visibility": true,
+			"title": "test de contactez nous v1",
+			"subtitle": "je ne sais pas si je préfère celle-ci"
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"cat_title": "contacts",
+			"cat_description": "Permettez de vous contacter",
+			"cat_img_source": "url de mon image",
+			"visibility": true,
+			"title": "contactez nous",
+			"subtitle": "vraiment super comme description"
+		}
+	]
+}
