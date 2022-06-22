@@ -3,7 +3,9 @@
 		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
-			"visibility": true
+			"visibility": true,
+			"title": "meme",
+			"subtitle": "si"
 		},
 		{
 			"cat_ref": "hero1",
