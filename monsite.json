@@ -6,6 +6,11 @@
 			"visibility": false
 		},
 		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"visibility": false
+		},
+		{
 			"cat_ref": "hero1",
 			"cat_category": "attract",
 			"cat_age": "33",
