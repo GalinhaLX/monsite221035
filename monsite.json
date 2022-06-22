@@ -7,7 +7,21 @@
 			"columns": [
 				{}
 			],
-			"item": []
+			"item": [
+				{}
+			]
+		},
+		{
+			"type": "b",
+			"cat_category": "contact",
+			"cat_age": "11",
+			"visibility": true,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
 		},
 		{
 			"type": "b",
@@ -17,16 +31,9 @@
 			"columns": [
 				{}
 			],
-			"item": []
-		},
-		{
-			"type": "b",
-			"cat_category": "contact",
-			"visibility": true,
-			"columns": [
+			"item": [
 				{}
-			],
-			"item": []
+			]
 		}
 	]
 }
