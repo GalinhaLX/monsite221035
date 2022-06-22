@@ -11,29 +11,6 @@
 				null,
 				null
 			]
-		},
-		{
-			"cat_ref": [
-				"contact1",
-				null
-			],
-			"cat_category": "contact",
-			"visibility": false,
-			"title": [
-				null,
-				null
-			]
-		},
-		{
-			"visibility": false,
-			"cat_ref": [
-				null,
-				null
-			],
-			"title": [
-				null,
-				null
-			]
 		}
 	]
 }
