@@ -1,48 +1,6 @@
 {
 	"site": [
 		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
-			"visibility": false
-		},
-		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
-			"visibility": false
-		},
-		{
-			"cat_ref": "contact1",
-			"cat_category": "contact",
-			"visibility": false
-		},
-		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
-			"cat_age": "33",
-			"visibility": true,
-			"title": "aa",
-			"subtitle": "aa"
-		},
-		{
-			"cat_ref": "contact1",
-			"cat_category": "contact",
-			"visibility": false
-		},
-		{
-			"cat_ref": "ref1",
-			"cat_category": "attract",
-			"visibility": true,
-			"title": "un autre titre",
-			"subtitle": "vraiment?"
-		},
-		{
-			"cat_ref": "hero1",
-			"cat_category": "attract",
-			"visibility": false,
-			"title": "meme",
-			"subtitle": "si"
-		},
-		{
 			"cat_ref": "contact1",
 			"cat_category": "contact",
 			"visibility": true,
