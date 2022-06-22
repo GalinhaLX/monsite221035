@@ -6,7 +6,10 @@
 			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
 			"visibility": false,
 			"columns": [
-				{}
+				{
+					"title": "aze",
+					"cat_age": "aa"
+				}
 			],
 			"item": [
 				{}
