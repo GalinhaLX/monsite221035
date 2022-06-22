@@ -3,6 +3,30 @@
 		{
 			"type": "a",
 			"cat_category": "attract",
+			"ref": "a",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
+			"type": "b",
+			"cat_category": "contact",
+			"ref": "b",
+			"visibility": false,
+			"columns": [
+				{}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
+			"type": "a",
+			"cat_category": "attract",
 			"visibility": false,
 			"columns": [
 				{}
