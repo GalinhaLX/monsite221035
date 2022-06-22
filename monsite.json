@@ -6,7 +6,9 @@
 			"ref": "a",
 			"visibility": true,
 			"columns": [
-				{}
+				{
+					"title": "mon titre"
+				}
 			],
 			"item": [
 				{}
