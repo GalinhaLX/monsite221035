@@ -7,7 +7,8 @@
 			"visibility": true,
 			"columns": [
 				{
-					"title": "mon titre"
+					"title": "mon titre",
+					"cat_age": "22"
 				}
 			],
 			"item": [
