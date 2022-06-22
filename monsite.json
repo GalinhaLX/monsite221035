@@ -1,6 +1,19 @@
 {
 	"site": [
 		{
+			"ref": "a",
+			"category": "attract",
+			"visibility": false,
+			"columns": [
+				{
+					"title": "lop"
+				}
+			],
+			"item": [
+				{}
+			]
+		},
+		{
 			"visibility": false,
 			"columns": [
 				{}
