@@ -50,6 +50,9 @@
 			"visibility": true,
 			"title": "test de contactez nous v1",
 			"subtitle": "je ne sais pas si je préfère celle-ci"
+		},
+		{
+			"visibility": true
 		}
 	]
 }
