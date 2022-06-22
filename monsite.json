@@ -7,25 +7,6 @@
 				null
 			],
 			"cat_category": "attract",
-			"cat_age": "22",
-			"visibility": true,
-			"title": [
-				null,
-				null,
-				null
-			],
-			"subtitle": [
-				null,
-				null
-			]
-		},
-		{
-			"cat_ref": [
-				"contact1",
-				null,
-				null
-			],
-			"cat_category": "contact",
 			"visibility": false,
 			"title": [
 				null,
