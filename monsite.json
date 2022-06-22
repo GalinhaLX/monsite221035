@@ -17,7 +17,9 @@
 		{
 			"cat_ref": "contact1",
 			"cat_category": "contact",
-			"visibility": true
+			"visibility": true,
+			"title": "mon tél",
+			"subtitle": "oui oui"
 		}
 	]
 }
